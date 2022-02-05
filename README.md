@@ -20,7 +20,9 @@ Designers have valuable skills that go beyond the visual arts: the ability to zo
 
 It is exactly these skills that make designers such valuable mediators of accessibility!
 
-Mediators are required as the needs of accessible technology and OSS can seem at odds: - Accessible technology needs to recognize the variety of disabilities, that there are many possible solutions, and to create cohesive alternative experience - OSS needs flexibility and variety: it is exactly because individual contributors add different things that it can be difficult to uniformly follow any sort of guidelines for one disability, much less for a variety of disabilities
+Mediators are required as the needs of accessible technology and OSS can seem at odds:
+- Accessible technology needs to recognize the variety of disabilities, that there are many possible solutions, and to create cohesive alternative experience
+- OSS needs flexibility and variety: it is exactly because individual contributors add different things that it can be difficult to uniformly follow any sort of guidelines for one disability, much less for a variety of disabilities
 
 This talk will explore how two designers came together to start mediating for more accessible OSS. Hear about our messy beginning trying to decode terms and guidelines, talking to developers of what they need, and finally creating accessibility-focused workshops for NumPy, JupyterLab and scikit-learn that have already made changes to the codebase.
 
