@@ -7,7 +7,7 @@ Link to video.
 
 Link to [transcript](https://github.com/MarsBarLee/fosdem_2022/blob/f2cbce0aa5c4947c2a6dcfa9ab9a1301c0191a71/Why_Designers_are_the_Mediators_of_Accessibility_Transcript.md).
 
-Link to presentation slides.
+Link to [presentation slides](https://docs.google.com/presentation/d/10P3KsYnaRL1s0JrWhV3pfs00_XISgfgs/edit?usp=sharing&ouid=110556856523158639329&rtpof=true&sd=true).
 
 ## Talk Abstract
 
