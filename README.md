@@ -5,6 +5,6 @@ Link to [event page](https://fosdem.org/2022/schedule/event/osd_why_designers_ar
 
 Link to video.
 
-Link to transcript.
+Link to [transcript](https://github.com/MarsBarLee/fosdem_2022/blob/f2cbce0aa5c4947c2a6dcfa9ab9a1301c0191a71/Why_Designers_are_the_Mediators_of_Accessibility_Transcript.md).
 
 Link to presentation slides.
