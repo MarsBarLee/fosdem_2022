@@ -9,7 +9,8 @@ Link to [transcript](https://github.com/MarsBarLee/fosdem_2022/blob/f2cbce0aa5c4
 
 Link to presentation slides.
 
-Talk Abstract
+## Talk Abstract
+
 Two designers came together to tackle this under-addressed issue in OSS. In this talk, we'll cover
 - How design principles have shaped our understanding of the technical challenges in implementing accessibility in OSS, such as writing 'alt-text' for scientific diagrams
 - - Learn about the real impact our workshops have made in NumPy, JupyterLab and scikit-learn
