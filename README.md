@@ -11,7 +11,7 @@ Link to presentation slides.
 
 ## Talk Abstract
 
-Two designers came together to tackle this under-addressed issue in OSS. In this talk, we'll cover
+Two designers (Isabela Presedo-Floyd and Mars Lee) came together to tackle this under-addressed issue in OSS. In this talk, we'll cover
 - How design principles have shaped our understanding of the technical challenges in implementing accessibility in OSS, such as writing 'alt-text' for scientific diagrams
 - Learn about the real impact our workshops have made in NumPy, JupyterLab and scikit-learn
 - How other OSS projects can host their own accessibility workshops and sprints
