@@ -13,8 +13,8 @@ Link to presentation slides.
 
 Two designers came together to tackle this under-addressed issue in OSS. In this talk, we'll cover
 - How design principles have shaped our understanding of the technical challenges in implementing accessibility in OSS, such as writing 'alt-text' for scientific diagrams
-- - Learn about the real impact our workshops have made in NumPy, JupyterLab and scikit-learn
-- - How other OSS projects can host their own accessibility workshops and sprints
+- Learn about the real impact our workshops have made in NumPy, JupyterLab and scikit-learn
+- How other OSS projects can host their own accessibility workshops and sprints
 
 Designers have valuable skills that go beyond the visual arts: the ability to zoom out and see the big picture, finding connections between disparate objects, and creating a pleasant user flow.
 
